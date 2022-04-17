@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Francis Sarpaning My Github name is AjumaPro
-- 👀 I’m interested in Mobile App Development with Flutter, Python, Java and Web development with either Flutter/React, HTML/CSS or WordPress
+- 👀 I’m interested in Mobile App Development with Flutter, React/React Native, JavaScript and Web development with either Flutter/React, HTML/CSS or WordPress
 - 🌱 I’m currently learning various tricks in Python and Java.
 - 💞️ I’m looking to collaborate on Flutter Projects or Web
 - 📫 How to reach me on infoajumapro@gmail.com or on +233249739599
